@@ -25,7 +25,7 @@ simple:
   titles: '&f&LProject &dX'
   scores:
     13:
-     - '&7&m+----------------+'
+      - '&7&m+----------------+'
       - '&7&m------------------'
     12: '&7» &7&lTime'
     11: '    &f%server_time_<SimpleDateFormat>%'
