@@ -22,22 +22,22 @@
 
 # This is a simple scoreboard with only the top and bottom lines animated
 simple:
-  titles: '&7&LYour&6&lServer'
+  titles: '&f&LProject &dX'
   scores:
     13:
-      - '&7&m+----------------+'
+     - '&7&m+----------------+'
       - '&7&m------------------'
-    12: '&7» &6&lPlayer'
-    11: '    &7%player%'
+    12: '&7» &7&lTime'
+    11: '    &f%server_time_<SimpleDateFormat>%'
     10: ''
-    9: '&7» &6&lHealth'
-    8: '    %hearts%'
+    9: '&7» &d&lRank'
+    8: '    &7%vault_prefix%'
     7: ''
-    6: '&7» &6&lWorld'
-    5: '    &7%world%'
+    6: '&7» &2&lBalance'
+    5: '    &f$%vault_eco_balance%'
     4: ''
-    3: '&7» &6&lOnline Players'
-    2: '    &7%online% &6players'
+    3: '&7» &7&lCompass'
+    2: '    &f&lX %player_x% &f&lY %player_y% &f&lZ %player_z%'
     1:
       - '&7&m+----------------+'
       - '&7&m------------------'
